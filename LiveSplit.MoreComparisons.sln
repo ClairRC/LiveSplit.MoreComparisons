@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveSplit.MoreComparisons", "LiveSplit.MoreComparisons.csproj", "{2B692AC6-D659-4E79-909E-4511D9862104}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiveSplit.Core", "..\LiveSplit\src\LiveSplit.Core\LiveSplit.Core.csproj", "{C6A01E4A-1609-4AF0-B588-5EF3C1A5E2F5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UpdateManager", "..\LiveSplit\src\UpdateManager\UpdateManager.csproj", "{64A778C3-EE63-41DB-9655-71D5144C9A1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		UpdateManagerExe|Any CPU = UpdateManagerExe|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B692AC6-D659-4E79-909E-4511D9862104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B692AC6-D659-4E79-909E-4511D9862104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B692AC6-D659-4E79-909E-4511D9862104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B692AC6-D659-4E79-909E-4511D9862104}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B692AC6-D659-4E79-909E-4511D9862104}.UpdateManagerExe|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B692AC6-D659-4E79-909E-4511D9862104}.UpdateManagerExe|Any CPU.Build.0 = Debug|Any CPU
+		{C6A01E4A-1609-4AF0-B588-5EF3C1A5E2F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6A01E4A-1609-4AF0-B588-5EF3C1A5E2F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6A01E4A-1609-4AF0-B588-5EF3C1A5E2F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6A01E4A-1609-4AF0-B588-5EF3C1A5E2F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6A01E4A-1609-4AF0-B588-5EF3C1A5E2F5}.UpdateManagerExe|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6A01E4A-1609-4AF0-B588-5EF3C1A5E2F5}.UpdateManagerExe|Any CPU.Build.0 = Debug|Any CPU
+		{64A778C3-EE63-41DB-9655-71D5144C9A1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64A778C3-EE63-41DB-9655-71D5144C9A1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64A778C3-EE63-41DB-9655-71D5144C9A1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64A778C3-EE63-41DB-9655-71D5144C9A1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64A778C3-EE63-41DB-9655-71D5144C9A1A}.UpdateManagerExe|Any CPU.ActiveCfg = UpdateManagerExe|Any CPU
+		{64A778C3-EE63-41DB-9655-71D5144C9A1A}.UpdateManagerExe|Any CPU.Build.0 = UpdateManagerExe|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AC88548-D54B-45C1-AC8D-D8A8E72FF263}
+	EndGlobalSection
+EndGlobal
