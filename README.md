@@ -2,6 +2,8 @@
 
 This is a LiveSplit component which allows you to generate custom comparisons for a given goal time with options to determine how time save is distributed.
 
+The DLL file can be downloaded [here](https://github.com/ClairRC/LiveSplit.MoreComparisons/tree/main/Component).
+
 ## How to use
 Drag LiveSplit.MoreComparisons.dll into the component folder in your LiveSplit folder.
 
